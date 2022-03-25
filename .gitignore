@@ -1,3 +1,6 @@
 test.html
 .DS_store
 *.js
+*.txt
+*.md
+
